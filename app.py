@@ -2,7 +2,7 @@
 
 data=["honda","audi","mercedese","juguar","lamorghini"]
 
-def main():0
+def main():
     print("Main Hello WELCOME TO MY FIRST PROJECT")
     for fruit in data:
         print(fruit)
